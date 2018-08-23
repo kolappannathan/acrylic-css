@@ -1,0 +1,19 @@
+/*
+    Contains CSS that is used for formatting the demo.html
+    These styles donot affect the acrylic effect
+*/
+
+body {
+    margin: 0; /* To avoid scroll bars in page */
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
+  
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    height: 100vh;
+  }
