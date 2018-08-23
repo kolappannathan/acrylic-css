@@ -17,3 +17,8 @@ body {
     flex-flow: row wrap;
     height: 100vh;
   }
+
+.cards{
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2), 0 1px 8px rgba(0, 0, 0, 0.4);
+    padding: 4em 6em;
+}
