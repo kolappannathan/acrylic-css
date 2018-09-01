@@ -3,15 +3,15 @@
     These styles donot affect the acrylic effect
 */
 
-body{
+body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-}
+  }
 
-.cards {
+  .cards {
     height: 70vh;
     margin-top: 15vh;
     width: 60vw;
     margin-left: 20vw;
-}
+  }
