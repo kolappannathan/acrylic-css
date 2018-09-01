@@ -1,6 +1,9 @@
 # acrylic-css
 A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
 
+Live Demo: https://kolappannathan.github.io/projects/acrylic-css/demo/demo.html
+Project URL: https://kolappannathan.github.io/projects/acrylic-css/index.html
+
 ## How to use it
 
 1. Add acrylic.min.css to your website.
