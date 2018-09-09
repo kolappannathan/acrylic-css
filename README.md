@@ -4,6 +4,8 @@ A pure css based style for using acrylic effect in websites. This is inspired fr
 Live Demo: https://kolappannathan.github.io/projects/acrylic-css/demo/demo.html
 Project URL: https://kolappannathan.github.io/projects/acrylic-css/index.html
 
+![W3C Validated](http://jigsaw.w3.org/css-validator/images/vcss)
+
 ## How to use it
 
 1. Add acrylic.min.css to your website.
