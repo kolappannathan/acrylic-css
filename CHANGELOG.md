@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added changelog.
 - Added nuspec file.
+- Added nuget package to Git.
 
 ### Changed
 - Changed CSS info at dist and src files.

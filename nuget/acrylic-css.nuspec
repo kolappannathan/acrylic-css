@@ -2,15 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>acrylic.css</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Acrylic CSS</title>
     <authors>Kolappan Nathan</authors>
     <owners>Kolappan Nathan</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://github.com/kolappannathan/acrylic-css/blob/master/LICENSE</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/kolappannathan/acrylic-css</projectUrl>
     <description>A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.</description>
     <summary>A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.</summary>
+    <releaseNotes>https://github.com/kolappannathan/acrylic-css/blob/master/CHANGELOG.md</releaseNotes>
     <copyright>Copyright (c) 2018 Kolappan Nathan</copyright>
     <language>en-GB</language>
     <tags>css acrylic fluentdesign fluent web transparent transperency style</tags>
