@@ -8,7 +8,7 @@ Project URL: https://kolappannathan.github.io/projects/acrylic-css/index.html
 
 ## How to use it
 
-1. Add acrylic.min.css to your website.
+1. Add acrylic.min.css to your website by either [npm](https://www.npmjs.com/package/acrylic-css) or [nuget](https://www.nuget.org/packages/acrylic.css/) or using the [css file](https://github.com/kolappannathan/acrylic-css/tree/master/dist).
 2. Change the image URL in background-image:url("../demo/demo.jpg"); to the point to your website background.
 3. Now the effects should work
 
