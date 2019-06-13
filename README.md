@@ -1,11 +1,18 @@
 # acrylic-css
 A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
 
-Live Demo: https://kolappannathan.github.io/projects/acrylic-css/demo.html
-
-Project URL: https://kolappannathan.github.io/projects/acrylic-css/index.html
-
 [![W3C Validated](http://jigsaw.w3.org/css-validator/images/vcss)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkolappannathan.github.io%2Fassets%2Flib%2Fmy-lib%2Facrylic%2Facrylic.min.css&profile=css3svg&usermedium=all&warning=2&vextwarning=&lang=en)
+[![GitHub](https://img.shields.io/github/license/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/acrylic-css/blob/master/LICENSE)
+![GitHub issues](https://img.shields.io/github/issues/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)
+
+### Download via
+[![npm](https://img.shields.io/npm/v/acrylic-css.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/acrylic-css)
+[![Nuget](https://img.shields.io/nuget/v/acrylic.css.svg?logo=nuget&style=flat-square)](https://www.nuget.org/packages/acrylic.css/)
+[![GitHub release](https://img.shields.io/github/release/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/acrylic-css/releases)
+
+### Websites
+ 1. Project website: https://kolappannathan.github.io/projects/acrylic-css/index.html
+ 2. Live demo: https://kolappannathan.github.io/projects/acrylic-css/demo.html
 
 ## How to use it
 
