@@ -11,8 +11,8 @@ A pure css based style for using acrylic effect in websites. This is inspired fr
 [![GitHub release](https://img.shields.io/github/release/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/acrylic-css/releases)
 
 ### Websites
- 1. Project website: https://kolappannathan.github.io/projects/acrylic-css/index.html
- 2. Live demo: https://kolappannathan.github.io/projects/acrylic-css/demo.html
+ 1. [![website](https://img.shields.io/badge/View-Project%20website-informational.svg?logo=mozilla%20firefox&style=flat-square)](https://kolappannathan.github.io/projects/acrylic-css/index.html)
+ 2. [![demo](https://img.shields.io/badge/View-Live%20demo-informational.svg?logo=mozilla%20firefox&style=flat-square)](https://kolappannathan.github.io/projects/acrylic-css/demo.html)
 
 ## How to use it
 
