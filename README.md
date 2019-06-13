@@ -5,7 +5,7 @@ Live Demo: https://kolappannathan.github.io/projects/acrylic-css/demo.html
 
 Project URL: https://kolappannathan.github.io/projects/acrylic-css/index.html
 
-![W3C Validated](http://jigsaw.w3.org/css-validator/images/vcss)
+[![W3C Validated](http://jigsaw.w3.org/css-validator/images/vcss)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkolappannathan.github.io%2Fassets%2Flib%2Fmy-lib%2Facrylic%2Facrylic.min.css&profile=css3svg&usermedium=all&warning=2&vextwarning=&lang=en)
 
 ## How to use it
 
