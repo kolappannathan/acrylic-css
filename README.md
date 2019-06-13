@@ -1,9 +1,12 @@
-# acrylic-css
-A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
+# Acrylic CSS
+
+[![GitHub](https://img.shields.io/github/license/kolappannathan/acrylic-css.svg?style=flat-square)](#)
+[![GitHub issues](https://img.shields.io/github/issues/kolappannathan/acrylic-css.svg?style=flat-square)](#)
+[![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/acrylic-css.svg?color=orange&style=flat-square)](#)
+
+A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language. The css is validated using W3C validation tool.
 
 [![W3C Validated](http://jigsaw.w3.org/css-validator/images/vcss)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkolappannathan.github.io%2Fassets%2Flib%2Fmy-lib%2Facrylic%2Facrylic.min.css&profile=css3svg&usermedium=all&warning=2&vextwarning=&lang=en)
-[![GitHub](https://img.shields.io/github/license/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/acrylic-css/blob/master/LICENSE)
-![GitHub issues](https://img.shields.io/github/issues/kolappannathan/acrylic-css.svg?logo=github&style=flat-square)
 
 ### Download via
 [![npm](https://img.shields.io/npm/v/acrylic-css.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/acrylic-css)
