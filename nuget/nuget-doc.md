@@ -3,7 +3,7 @@ A pure css based style for using acrylic effect in websites. This is inspired fr
 ## Usage
 
 1. Download and include the acrylic.min.css file in your website.
-2. Change the image URL in background-image:url("../demo/demo.jpg"); to the point to your website background.
+2. Change the image URL in background-image:url("https://source.unsplash.com/random"); to the point to your website background.
 3. Now the effects should work
 
 The background image can also be changed dynamically using JavaScript. You can find an example script [here](https://github.com/kolappannathan/acrylic-css/blob/master/demo/demo.js).
