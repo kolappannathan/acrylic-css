@@ -19,7 +19,7 @@ A pure css based style for using acrylic effect in websites. This is inspired fr
 
 ## How to use it
 
-1. Add acrylic.min.css to your website by either [npm](https://www.npmjs.com/package/acrylic-css) or [nuget](https://www.nuget.org/packages/acrylic.css/) or using the [css file](https://github.com/kolappannathan/acrylic-css/tree/master/dist).
+1. Add acrylic.min.css to your website by either [npm](https://www.npmjs.com/package/acrylic-css) or [nuget](https://www.nuget.org/packages/acrylic.css/) or using the [css file](https://github.com/kolappannathan/acrylic-css/tree/main/dist).
 2. Change the image URL in background-image:url("https://source.unsplash.com/random"); to the point to your website background.
 3. Now the effects should work
 
