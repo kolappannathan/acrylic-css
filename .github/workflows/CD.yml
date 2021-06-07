@@ -1,0 +1,24 @@
+name: CD
+
+on:
+  # This specifies that the build will be triggered when we publish a release
+  release: 
+    types: [published]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.5
+      - name: Publish NPM Package
+        # if tests are present run 'npm test' after build
+        run: |
+          npm build
+          npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTOMATION_TOKEN }}
