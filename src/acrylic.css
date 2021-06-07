@@ -4,14 +4,15 @@
 * Author        : Kolappan Nathan
 * License       : MIT
 * GitHub        : https://github.com/kolappannathan/acrylic-css
-* Version       : 1.0.1
-* Last Modified : 03-Jan-2019
+* Version       : 1.0.3
+* Last Modified : 07-Jun-2021
 */
 
 body,
 .nk-acrylic:before {
-  background: fixed;
+  /* change the image below to your background image before using */
   background-image: url("https://source.unsplash.com/random");
+  background: fixed;
   background-color: #333;
   background-size: cover;
 }
