@@ -13,12 +13,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
-      - name: Setup Node.js environment
+      - name: Setup Node.js
         uses: actions/setup-node@v2.1.5
-      - name: Publish NPM Package
-        # if tests are present run 'npm test' after build
+      - name: Setup NPM
+        run: |
+          npm --version
+          npm set https://registry.npmjs.org/:_authToken ${{ secrets.NPM_AUTOMATION_TOKEN }}
+      - name: NPM build & test
+       # if tests are present run 'npm test' after build
         run: |
           npm build
-          npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTOMATION_TOKEN }}
+      - name: Publish NPM Package
+        run: npm publish --dry-run
