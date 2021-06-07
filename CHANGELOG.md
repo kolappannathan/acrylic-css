@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Changed
+
+### Demo
  - Replaced demo image with random unsplash image
  - Removed demo.css in favour of bootstrap classes
  - Updating bootstrap for demo
@@ -14,8 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added changelog.
 - Added nuspec file.
-- Added nuget package to Git.
-- Added package.json for npm package.
+- Added Nuget package to Git.
+- Added package.json for NPM package.
 
 ### Changed
 - Changed CSS info at dist and src files.
