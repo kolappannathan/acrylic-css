@@ -10,11 +10,11 @@
 
 body,
 .nk-acrylic:before {
-  /* change the image below to your background image before using */
-  background-image: url("https://source.unsplash.com/random");
   background: fixed;
   background-color: #333;
   background-size: cover;
+  /* change the image below to your background image before using */
+  background-image: url("https://source.unsplash.com/random");
 }
 
 .nk-acrylic {
