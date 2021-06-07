@@ -1,6 +1,6 @@
 # Acrylic CSS
 
-[![Demo](https://img.shields.io/badge/View-Live%20demo-blue.svg?logo=microsoft%20edge&style=flat-square)](https://kolappan.dev/project/acrylic-demo.html)
+[![Demo](https://img.shields.io/badge/View-Live%20demo-blue.svg?logo=microsoft%20edge&style=flat-square)](https://kolappannathan.github.io/acrylic-css/)
 [![GitHub](https://img.shields.io/github/license/kolappannathan/acrylic-css.svg?style=flat-square)](#)
 [![GitHub issues](https://img.shields.io/github/issues/kolappannathan/acrylic-css.svg?style=flat-square)](#)
 [![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/acrylic-css.svg?color=orange&style=flat-square)](#)
