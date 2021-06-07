@@ -2,16 +2,16 @@
   "name": "acrylic-css",
   "version": "1.0.3",
   "description": "A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.",
-  "main": "dist/acrylic.min.css",
-  "style": "dist/acrylic.min.css",
+  "main": "src/acrylic.min.css",
+  "style": "src/acrylic.min.css",
   "files": [
-    "dist/acrylic.min.css",
+    "src/acrylic.min.css",
     "src/acrylic.css",
     "LICENSE"
   ],
   "repository": "kolappannathan/acrylic-css",
   "bugs": "https://github.com/kolappannathan/acrylic-css/issues",
-  "homepage": "https://kolappannathan.github.io/projects/acrylic-css/index.html",
+  "homepage": "https://github.com/kolappannathan/acrylic-css",
   "keywords": [
     "acrylic style",
     "css",
