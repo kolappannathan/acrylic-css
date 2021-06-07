@@ -1,6 +1,6 @@
 {
   "name": "acrylic-css",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A pure css based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.",
   "main": "src/acrylic.min.css",
   "style": "src/acrylic.min.css",
