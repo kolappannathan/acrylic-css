@@ -18,7 +18,7 @@ jobs:
       - name: Setup NPM
         run: |
           npm --version
-          npm set https://registry.npmjs.org/:_authToken ${{ secrets.NPM_AUTOMATION_TOKEN }}
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTOMATION_TOKEN }}" > .npmrc
       - name: NPM build & test
        # if tests are present run 'npm test' after build
         run: |
