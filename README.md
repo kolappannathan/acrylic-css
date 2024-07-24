@@ -5,6 +5,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/kolappannathan/acrylic-css.svg?style=flat-square)](#)
 [![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/acrylic-css.svg?color=orange&style=flat-square)](#)
 
+## **The repository is archived for reference. The package is no longer maintained.**
+
 A pure CSS based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language. The CSS is validated using W3C validation tool.
 
 [![W3C Validated](https://jigsaw.w3.org/css-validator/images/vcss-blue)](https://jigsaw.w3.org/css-validator/validator)
