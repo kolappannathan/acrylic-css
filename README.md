@@ -9,6 +9,8 @@
 
 A pure CSS based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language. The CSS is validated using W3C validation tool.
 
+![Screenshot from 2024-07-28 19-57-08](https://github.com/user-attachments/assets/bcec752e-2622-48c0-8307-145be5fb5aed)
+
 [![W3C Validated](https://jigsaw.w3.org/css-validator/images/vcss-blue)](https://jigsaw.w3.org/css-validator/validator)
 
 ### Download via
